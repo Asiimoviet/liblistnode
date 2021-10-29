@@ -4,9 +4,9 @@ This is a library containing the majority of methods one might use when handling
 
 ### Structs
 
-ListNode:
-- int val
-- ListNode *next
+- ListNode:
+  - int val
+  - ListNode *next
 
 ### Methods
 
